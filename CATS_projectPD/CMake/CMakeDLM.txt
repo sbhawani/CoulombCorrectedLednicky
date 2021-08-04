@@ -1,0 +1,11 @@
+CATS_projectPD
+
+/home/sbhawani/ProtonDeuteron/ProtonDeuteronCATSGit/CATS_projectPD
+/home/sbhawani/alice/sw/ubuntu1804_x86-64/ROOT/v6-16-00-1
+/home/sbhawani/gsl/gsl
+/home/sbhawani/MathsTool/Arb/
+/home/sbhawani/gsl/cblas/.libs
+/usr/local/lib/
+/home/sbhawani/CATS
+dev
+/home/sbhawani/ProtonDeuteron/Outputs/OutputCATSProjects/OutputCATSProjectPD
